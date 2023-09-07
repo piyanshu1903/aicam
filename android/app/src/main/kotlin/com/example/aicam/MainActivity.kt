@@ -1,0 +1,6 @@
+package com.example.aicam
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
